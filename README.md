@@ -29,3 +29,5 @@ I've cloned the repo, and have added changed and now I want to push the changes 
 3) git add . ; git commit -m "Msg telling that what you have done " ; git push
 4) Changes that you made are pushed
 5) On your server, do a git clone URL for the first time and from second time to test, just do a 'git pull'
+
+# completed
